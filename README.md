@@ -1,2 +1,5 @@
 # projeto_lojas
-foi realizado 4 projetos locadora de jogos, loja, amigo secreto e alugar ingresso
+foi realizado projeto de carrinho de mercado
+
+## tecnologias usadas
+foi utilizado javascript, html e css
